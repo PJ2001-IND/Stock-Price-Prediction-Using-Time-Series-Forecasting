@@ -4,7 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-lightblue?style=flat-square&logo=tableau)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?style=flat-square&logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 > A time series forecasting project that predicts the stock closing price of **Tata Global Beverages (NSE: TATAGLOBAL)** using classical statistical models and machine learning techniques, complemented by an interactive Tableau dashboard for trend analysis.
 
