@@ -188,10 +188,4 @@ Open `Time_Series_Forecasting.twb` in **Tableau Desktop** or upload to **Tableau
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 > ⭐ If you found this project useful, consider giving it a star!
