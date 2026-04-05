@@ -7,7 +7,6 @@
 ![Prophet](https://img.shields.io/badge/Meta-Prophet-0866FF?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Metrics-green?style=flat-square&logo=scikit-learn)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau)
-![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square)
 
 > A **multi-model time series forecasting pipeline** built to predict the closing stock price of **Tata Global Beverages (NSE: TATAGLOBAL)** — benchmarking four approaches: **ARIMA**, **SARIMA**, **Facebook Prophet**, and a **stacked LSTM neural network**. The pipeline covers end-to-end data loading, preprocessing, train/test splitting, model training, forecasting, and RMSE/MAE evaluation across all four models, with a companion **Tableau workbook** (6 sheets) for exploratory visual analysis of the raw OHLC stock data.
 
