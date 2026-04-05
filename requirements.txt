@@ -1,0 +1,26 @@
+# Stock Price Prediction — Time Series Forecasting
+# Python Dependencies
+
+# Core data handling
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Statistical time series models
+statsmodels>=0.13.0
+
+# Meta Prophet (decomposition-based forecasting)
+prophet>=1.1.0
+
+# Deep learning — LSTM
+tensorflow>=2.10.0
+
+# Preprocessing & evaluation metrics
+scikit-learn>=1.0.0
+
+# Visualisation
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
